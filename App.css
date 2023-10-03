@@ -1,0 +1,30 @@
+.calc {
+  margin: 0 0 0 600px;
+  width: 200px;
+  padding: 10px 20px 20px 20px;
+  background-color: rgb(235, 31, 31);
+  border-radius: 20px;
+}
+
+.butt {
+  width: 50px;
+  background-color: rgb(207, 17, 166);
+  border-radius: 5px;
+}
+
+.head {
+  justify-items: center;
+  color: white;
+}
+
+/* .buttons{
+
+  } */
+
+.display {
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+
